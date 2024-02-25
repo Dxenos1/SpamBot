@@ -5,8 +5,8 @@ api:
     "accept": "application/json"
     "content-type": "application/json"
   data:
-    content: "<@399649538983591956> => GAY"
-    username: "Gamias Plastiri"
+    content: "<@399649538983591956> ....."
+    username: "Sample Username"
     avatar_url: "https://i1.sndcdn.com/avatars-KEtjfjzOQ9qN6FVL-uQmpIg-t240x240.jpg"
 targetId: "415233187434725377"
 loopCount: 20
