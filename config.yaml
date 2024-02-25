@@ -1,0 +1,12 @@
+api:
+  url: "https://discord.com/api/webhooks/1208894480112164894/llr3C6jwCKZNKFKovfhCz8FisAX8D-UPWQo6lIibVi4CPO4FdaRGbt6s7rGT7XGJEa94"
+  method: "POST"
+  headers:
+    "accept": "application/json"
+    "content-type": "application/json"
+  data:
+    content: "<@399649538983591956> => GAY"
+    username: "Gamias Plastiri"
+    avatar_url: "https://i1.sndcdn.com/avatars-KEtjfjzOQ9qN6FVL-uQmpIg-t240x240.jpg"
+targetId: "415233187434725377"
+loopCount: 20
